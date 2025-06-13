@@ -1,5 +1,13 @@
-<h1>Seja bem vindo!</h1>
-<h2>Roberio Rocha</h2>
+<h2 align="center">
+	Sejam bem vindos!
+</h2>
+
+<h3 align="center">
+  <a href="https://github.com/roberiorocha">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Robério+Rocha;Sou+,+Desenvolvedor+e+estudante FullStack!&center=true&width=780&height=45">
+  </a>
+</h3>
+
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto vero possimus necessitatibus cumque dolorum
         illo dolorem voluptatem esse neque quod soluta dolore, quibusdam assumenda expedita. Voluptatum rem magnam atque
         quis!
