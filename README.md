@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://github.com/roberiorocha">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Robério+Rocha;Programador+Delphi+e+Estudante+Full Stack!&center=true&width=780&height=45">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Me+chamo+Robério+Rocha;Sou+programador+Delphi,+Estudante+ Full+Stack!&center=true&width=780&height=45">
   </a>
 </h3>
 
