@@ -39,10 +39,12 @@
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 -->
 
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+<!--
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
-![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)-->
+![Express.js](https://img.shields.io/badge/-ExpressJS-000?style=for-the-badge&logo=express)
+-->
 
 <!--
 #### Design
@@ -58,14 +60,15 @@
 ![Photopea](https://img.shields.io/badge/-Photopea-000?style=for-the-badge&logo=photopea)
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+-->
 
 ## Estatísticas do Github 📊
 
 <details>
   <summary>⚡ Atividades Recentes</summary>
   <br/>
-  <a href="https://github.com/wagnerlimanet/github-readme-activity-graph">
-	  <img alt="Wagner Lima Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wagnerlimanet&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  <a href="https://github.com/roberiorocha/github-readme-activity-graph">
+	  <img alt="Roberio Rocha Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=roberiorocha&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   </a>
   <br/>
 </details>
@@ -73,11 +76,11 @@
 <details> 
   <summary>💻 Métricas do Perfil/Projetos</summary>
   <br/>
-    <a href="https://github.com/wagnerlimanet/github-readme-stats">
-	    <img alt="Wagner Lima Github Stats" src="https://github-readme-stats.vercel.app/api?username=wagnerlimanet&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
+    <a href="https://github.com/roberiorocha/github-readme-stats">
+	    <img alt="Roberio Rocha Github Stats" src="https://github-readme-stats.vercel.app/api?username=roberiorocha&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="45%" height="192px"/>
     </a>
-  <a href="https://github.com/wagnerlimanet/github-readme-stats">
-	  <img alt="Wagner Lima Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wagnerlimanet&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
+  <a href="https://github.com/roberiorocha/github-readme-stats">
+	  <img alt="Roberio Rocha Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberiorocha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="45%"/>
   </a>
   <br/>
   <b>Nota:</b> As principais linguagens são apenas uma métrica das linguagens usadas nos projetos que foram publicados, não implicando diretamente na minha experiência e/ou nível de habilidade.
@@ -85,23 +88,21 @@
 
 <hr />
 
-<p align="center"><img src="https://profile-counter.glitch.me/{wagnerlimanet}/count.svg" alt="Wagner Lima :: Contador de Visitas" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{roberiorocha}/count.svg" alt="Roberio Rocha :: Contador de Visitas" /></p>
 
 <p align="center">
-  <a href="https://github.com/wagnerlimanet">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/wagnerlimanet"/>
+  <a href="https://github.com/roberiorocha">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/roberiorocha"/>
   </a>
-  <a href="https://github.com/wagnerlimanet?tab=repositories&sort=wagnerlimanet">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff6600&labelColor=ffffff&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/wagnerlimanet"/>
+  <a href="https://github.com/roberiorocha?tab=repositories&sort=roberiorocha">
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff6600&labelColor=ffffff&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/roberiorocha"/>
   </a>
-  <a href="https://github.com/wagnerlimanet?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/wagnerlimanet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/wagnerlimanet/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=wagnerlimanet&style=for-the-badge&color=lightgrey"/>
+  <a href="https://github.com/roberiorocha?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/roberiorocha?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/roberiorocha/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=roberiorocha&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
-
--->
 
 <p align="center">
 
