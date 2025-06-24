@@ -19,7 +19,7 @@
 
 ## Minhas Skills 💻
 #### Desenvolvimento
-![DELPHI](https://img.shields.io/badge/DELPHI-000?style=for-the-badge&logo=DELPHI)
+![DELPHI](https://img.shields.io/badge/DELPHI-F80000?style=for-the-badge&logo=DELPHI)
 ![[SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)](https://img.shields.io/badge/Microsoft_SQL_Server-000000?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=02A9FF)
